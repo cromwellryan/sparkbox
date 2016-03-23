@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/sparkbox/sparkbox/issues"
   },
-  "homepage": "https://github.com/sparkbox/sparkbox#readme"
+  "homepage": "https://github.com/sparkbox/sparkbox#readme",
+  "bin": "./bin/sparkbox.js"
 }
