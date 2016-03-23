@@ -1,0 +1,19 @@
+{
+  "name": "sparkbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"We're bad people\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparkbox/sparkbox.git"
+  },
+  "author": "Ryan Cromwell <ryan@heysparkbox.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparkbox/sparkbox/issues"
+  },
+  "homepage": "https://github.com/sparkbox/sparkbox#readme"
+}
